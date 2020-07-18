@@ -1,0 +1,43 @@
+.logo
+{
+   height: auto;
+   display: inline;
+   width: 5vw;;
+   min-width: 80px;
+}
+
+.navbar
+{
+    background-color:rgb(253, 238, 238);
+}
+
+.title
+{
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold !important;
+    background-color: #faf0f3;
+}
+
+.nav-item
+{
+    margin: 0 6vw 0 6vw;
+}
+
+.dropdown-menu
+{
+    background-color: #faf0f3 !important;
+}
+
+.title:hover
+{
+    color: coral !important;
+   font-weight: bold;
+}
+
+
+
+.search-btn:hover 
+{
+    background-color: coral !important;
+}
